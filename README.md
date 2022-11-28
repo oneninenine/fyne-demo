@@ -1,0 +1,3 @@
+# fyne-demo
+a demo for use fyne to merge Excel data ...
+场景是需要按照给出的模板抽取各excel->sheet1的正文(除开表头和表尾)内容
